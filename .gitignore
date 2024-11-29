@@ -1,0 +1,7 @@
+__pycache__
+.env
+.venv
+app.ipynb
+main.ipynb
+__init__.py
+test.py

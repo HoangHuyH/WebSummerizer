@@ -1,0 +1,4 @@
+python -m venv .venv
+source .venv/bin/activate
+which python #may in use when the first command doesnt work
+python -m pip install --upgrade pip

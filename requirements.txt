@@ -1,0 +1,5 @@
+gradio
+python-dotenv
+beautifulsoup4==4.12.3
+google-generativeai
+python==3.11.10
