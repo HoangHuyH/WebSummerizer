@@ -6,9 +6,6 @@
 
 [https://imgur.com/EhLL44c](https://imgur.com/EhLL44c)
 
-<h2>Project Screenshots:</h2>
-
-<img src="" alt="project-screenshot" width="400" height="400/">
 
   
   
@@ -31,3 +28,5 @@ Technologies used in the project:
 *   Gradio
 *   Python
 *   Google Generative AI
+
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
